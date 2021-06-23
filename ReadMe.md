@@ -11,7 +11,7 @@ I WANT be able to look up different countries and know a little bit about them a
 SO THAT I can plan a financially sound and enjoyable trip 
 ```
 ## Screenshot
-![Spyglass](./assets/spyglass.png.png)
+![Spyglass](./assets/spyglass.png)
 
 ## APIs
 ### Rest Countries API
